@@ -1,0 +1,24 @@
+{
+  "brands": [
+    {
+      "id": 0,
+      "name": "dulux",
+      "label": "Dulux"
+    },
+    {
+      "id": 1,
+      "name": "duram",
+      "label": "Duram"
+    },
+    {
+      "id": 2,
+      "name": "flash-harry",
+      "label": "Flash Harry"
+    },
+    {
+      "id": 3,
+      "name": "torkcraft",
+      "label": "TorkCraft"
+    }
+  ]
+}
